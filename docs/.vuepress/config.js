@@ -1,7 +1,7 @@
 module.exports = {
   title: 'myblog',
   description : '666666',
-  // base : '/zhangjianzhong/',
+  base : '/vuepressblog/docs/.vuepress/dist/',
   themeConfig : {
     nav : [
       { text: '待定', link: '#' },
