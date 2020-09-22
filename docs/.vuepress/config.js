@@ -11,9 +11,6 @@ module.exports = {
     sidebar: {
       '/' : [
         "/",
-        "/html",
-        "/css",
-        "/error",
         "/elementui-Form",
         "/elementui-loading",
         "/createObj",
