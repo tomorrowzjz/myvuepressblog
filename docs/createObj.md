@@ -30,7 +30,7 @@ var person2 = createPerson('li',20);
 ```
 
 
-​
+
 ## 构造函数模式
  ```
     function Person(name, age, job){
