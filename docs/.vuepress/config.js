@@ -9,17 +9,17 @@ module.exports = {
       { text: 'github', link: '#3' }
     ],
     sidebar: {
-      '/' : [
-        "/",
-        "/elementui-Form",
-        "/elementui-loading",
-        "/createObj",
-        "/http常用状态码",
-        "/js 防抖debounce与节流throttle",
-        "/LinuxData",
-        "/promise",
-        "/reduce",
-        "/linuxNginx自启动"
+      '/blog/' : [
+        "/blog/",
+        "/blog/elementui-Form",
+        "/blog/elementui-loading",
+        "/blog/createObj",
+        "/blog/http常用状态码",
+        "/blog/js 防抖debounce与节流throttle",
+        "/blog/LinuxData",
+        "/blog/promise",
+        "/blog/reduce",
+        "/blog/linuxNginx自启动"
       ]
     },
     // sidebarDepth : 2
