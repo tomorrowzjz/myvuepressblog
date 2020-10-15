@@ -1,6 +1,6 @@
 module.exports = {
   title: 'myblog',
-  description : '666666',
+  description : '技术博客',
   base : '/vuepressblog/',
   themeConfig : {
     nav : [
