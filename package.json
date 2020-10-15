@@ -13,5 +13,9 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.5.4"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.7.0",
+    "@vuepress/plugin-medium-zoom": "^1.7.0"
   }
 }
