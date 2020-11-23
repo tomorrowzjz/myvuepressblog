@@ -19,7 +19,8 @@ module.exports = {
         "/blog/LinuxData",
         "/blog/promise",
         "/blog/reduce",
-        "/blog/linuxNginx自启动"
+        "/blog/linuxNginx自启动",
+        "/blog/reflow&repaint"
       ]
     },
     // sidebarDepth : 2
