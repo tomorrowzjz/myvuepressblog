@@ -20,7 +20,8 @@ module.exports = {
         "/blog/promise",
         "/blog/reduce",
         "/blog/linuxNginx自启动",
-        "/blog/reflow&repaint"
+        "/blog/reflow&repaint",
+        "/blog/固定表头和列的表格",
       ]
     },
     // sidebarDepth : 2
