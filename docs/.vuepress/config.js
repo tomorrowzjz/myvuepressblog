@@ -22,6 +22,7 @@ module.exports = {
         "/blog/linuxNginx自启动",
         "/blog/reflow&repaint",
         "/blog/固定表头和列的表格",
+        "/blog/vue-virtual-scroll-list",
       ]
     },
     // sidebarDepth : 2
